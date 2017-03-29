@@ -1,0 +1,11 @@
+form,h1, img{
+    max-width: 60%;
+    padding: 10px 10px;
+    background: #f4f7f8;
+    border-radius: 8px;
+    margin:10px auto;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+img,#loading{margin:0 60% 0 40%;}
+#noGif{color:red;}
+
